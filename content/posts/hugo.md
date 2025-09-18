@@ -1,6 +1,6 @@
 +++
 date = '2025-09-17T23:15:38-05:00'
-draft = true
+draft = false
 title = 'Hugo'
 +++
 ## Hugo.
