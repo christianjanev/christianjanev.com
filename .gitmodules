@@ -4,3 +4,6 @@
 [submodule "themes/loveit"]
 	path = themes/loveit
 	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/papermodx"]
+	path = themes/papermodx
+	url = https://github.com/reorx/hugo-PaperModX.git
